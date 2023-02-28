@@ -10,4 +10,6 @@ Desarrollador una calculadora que tenga:
 4 botones de operadores básicos (suma, resta, multiplicación, división)
 Al realizar la cuenta se deberá actualizar el campo resultado
 
-#live: 
+# live: https://alexielardilla.github.io/TpMod1Unidad2React_UTN/
+
+Por Alejandro G Vera para UTN 2023
